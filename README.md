@@ -2,13 +2,7 @@
 
 ```python
 class IPC2:
-  def __init__(self):
-    print("=========================================================")
-    print("= Tutor Académico: Hesban Amilcar Argueta Aguilar       =")
-    print("= Curso: Introducción a la Programación y Computación 2 =")
-    print("= Sección: C                                            =")
-    print("= Periodo: Segundo Semestre 2025                        =")
-    print("=========================================================")
+
 ```
 
 Este repositorio esta orientado a apoyar a los estudiantes de IPC2 de lo desarollado en el laboratorio. La idea es que todos los ejemplos vistos en laboratorio sean subidos y que tengan los comentarios suficientes para que vayan aprendiendo y aclarando sus dudas.
